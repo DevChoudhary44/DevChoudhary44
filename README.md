@@ -20,43 +20,47 @@
   <img src="https://komarev.com/ghpvc/?username=DevChoudhary44&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (Blockchain) Student
-* 🌱 Currently learning Java, JavaScript, Node.js & Cloud Computing
-* 💻 Passionate about Web Development & Blockchain
-* 🚀 Building projects to improve my development skills
-* 📫 Reach me on LinkedIn
+- 🎓 B.Tech CSE (Blockchain) Student
+- 🌱 Currently learning Java, JavaScript, Node.js & Cloud Computing
+- 💻 Passionate about Web Development & Blockchain
+- 🔐 Interested in Cryptography and Cybersecurity
+- 🤖 Exploring Artificial Intelligence and Generative AI
+- 🚀 Building projects to improve my development skills
+- 📫 Reach me on LinkedIn
+
+---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,tailwind,nodejs,git,github,vscode" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevChoudhary44&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevChoudhary44&show_icons=true&theme=highcontrast"/>
-
 </p>
+
+---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevChoudhary44&theme=tokyo-night"/>
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevChoudhary44/DevChoudhary44/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevChoudhary44&theme=tokyo-night"/>
 </p>
+
+---
 
 ## 🌐 Connect with Me
 
@@ -70,4 +74,10 @@
   <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+  🚀 Always Learning • Always Building • Always Improving
 </p>
