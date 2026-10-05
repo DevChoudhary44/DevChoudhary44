@@ -9,11 +9,11 @@
 </h3>
 
 <p align="center">
-🧑‍💻 Blockchain Student • 🔑 Cryptographer (OpenSSL) • ☁️ Cloud Computing • Frontend Web Developer • 🤖 Artificial Intelligence
+🧑‍💻 Blockchain Student • 🔑 Cryptographer (OpenSSL) • ☁️ Cloud Computing • 💻 Frontend Web Developer • 🤖 AI Explorer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Blockchain+Student;Java+Developer;Cloud+Computing+Learner;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;Blockchain+Student;Java+Developer;Cryptography+Enthusiast;Cloud+Computing+Learner;AI+Explorer;Always+Learning+New+Things🚀">
 </p>
 
 <p align="center">
@@ -27,57 +27,32 @@
 - 🎓 B.Tech CSE (Blockchain) Student
 - 🌱 Currently learning Java, JavaScript, Node.js & Cloud Computing
 - 💻 Passionate about Web Development & Blockchain
-- 🔐 Interested in Cryptography and Cybersecurity
+- 🔐 Interested in Cryptography, Cybersecurity & OpenSSL
 - 🤖 Exploring Artificial Intelligence and Generative AI
+- ☁️ Learning Cloud Computing and modern development tools
 - 🚀 Building projects to improve my development skills
-- 📫 Reach me on LinkedIn
+- 💡 Always experimenting with new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Dev Terminal
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,tailwind,nodejs,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevChoudhary44&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevChoudhary44&show_icons=true&theme=highcontrast" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevChoudhary44&theme=tokyonight" alt="Dev Choudhary GitHub Contribution Graph" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/dev-choudhary-2006june">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://instagram.com/devgadwal2006">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  🚀 Always Learning • Always Building • Always Improving
-</p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    DEV@GITHUB:~$                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  > Initializing DevChoudhary.exe...                         ║
+║                                                              ║
+║  > Loading Blockchain modules................. [✓]          ║
+║  > Loading Cryptography modules.............. [✓]          ║
+║  > Loading Web Development modules........... [✓]          ║
+║  > Loading Cloud Computing modules............ [✓]          ║
+║  > Loading Artificial Intelligence............ [✓]          ║
+║                                                              ║
+║  > Security protocols initialized. 🔐                       ║
+║  > Development environment ready. 💻                        ║
+║                                                              ║
+║  > ACCESS GRANTED 🔓                                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
