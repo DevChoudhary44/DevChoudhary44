@@ -45,11 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevChoudhary44&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevChoudhary44&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevChoudhary44&show_icons=true&theme=highcontrast"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevChoudhary44&show_icons=true&theme=highcontrast" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevChoudhary44&theme=tokyo-night"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevChoudhary44&theme=tokyonight" alt="Dev Choudhary GitHub Contribution Graph" />
 </p>
 
 ---
@@ -67,11 +67,11 @@
 <p>
 
 <a href="https://www.linkedin.com/in/dev-choudhary-2006june">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://instagram.com/devgadwal2006">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </p>
