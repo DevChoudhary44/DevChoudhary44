@@ -9,15 +9,15 @@
 </h3>
 
 <p align="center">
-🧑‍💻 Blockchain Student • 🔑 Cryptographer (OpenSSL) • ☁️ Cloud Computing • Frontend Web Developer • 🤖 Artificial Intelligence
+🧑‍💻 Blockchain Student • 🔑 Cryptographer (OpenSSL) • ☁️ Cloud Computing • 🌐 Frontend Web Developer • 🤖 Artificial Intelligence
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Blockchain+Student;Java+Developer;Cloud+Computing+Learner;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;Blockchain+Student;Java+Developer;Cryptography+Enthusiast;Cloud+Computing+Learner;AI+Explorer;Always+Learning+New+Things+🚀">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevChoudhary44&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DevChoudhary44&label=Profile%20Views&color=0e75b6&style=flat">
 </p>
 
 ---
@@ -28,52 +28,46 @@
 - 🌱 Currently learning Java, JavaScript, Node.js & Cloud Computing
 - 💻 Passionate about Web Development & Blockchain
 - 🔐 Interested in Cryptography and Cybersecurity
+- ⛓️ Exploring Blockchain Technology and Web3
 - 🤖 Exploring Artificial Intelligence and Generative AI
+- ☁️ Learning Cloud Computing and Cloud Technologies
 - 🚀 Building projects to improve my development skills
-- 📫 Reach me on LinkedIn
+- 📫 Connect with me on LinkedIn
 
 ---
-
-## ⛓️ Blockchain Network
+## ⛓️ Blockchain Technology
 
 <p align="center">
-  <img src="blockchain-animation.svg" alt="Animated Blockchain Network" width="900">
+  <img src="./Neon Blockchain Cybersecurity Network.png"
+       alt="Neon Blockchain Cybersecurity Network"
+       width="900">
 </p>
+
+<p align="center">
+  <b>Decentralized • Transparent • Secure • Distributed</b>
+</p>
+
 
 ---
-
-## 🛡️ Cybersecurity Scanner
+## 🛡️ Cybersecurity
 
 <p align="center">
-  <img src="cybersecurity-scanner.svg" alt="Animated Cybersecurity Scanner" width="900">
+  <img src="./Neon Cybersecurity Defense Dashboard.png"
+       alt="Neon Cybersecurity Defense Dashboard"
+       width="900">
 </p>
+
+<p align="center">
+  <b>Detect • Defend • Secure</b>
+</p>
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,tailwind,nodejs,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevChoudhary44&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevChoudhary44&show_icons=true&theme=highcontrast" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevChoudhary44&theme=tokyonight" alt="Dev Choudhary GitHub Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,tailwind,nodejs,git,github,vscode">
 </p>
 
 ---
@@ -94,11 +88,50 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=DevChoudhary44&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=DevChoudhary44&show_icons=true&theme=highcontrast">
+</p>
+
+---
+
+## 📈 GitHub Profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevChoudhary44&theme=tokyonight"
+       alt="Dev Choudhary GitHub Contribution Graph">
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 <p align="center">
 
-`Java` • `JavaScript` • `Node.js` • `Blockchain` • `Cryptography` • `Cloud Computing` • `AI`
+`Java` • `JavaScript` • `Node.js` • `Blockchain` • `Cryptography` • `Cloud Computing` • `Artificial Intelligence`
+
+</p>
+
+---
+
+## 🚀 Projects & Interests
+
+<p align="center">
+
+🔐 Cryptography  
+⛓️ Blockchain Development  
+🌐 Web Development  
+☁️ Cloud Computing  
+🤖 Artificial Intelligence  
+🛡️ Cybersecurity  
+💻 Open Source  
 
 </p>
 
@@ -109,13 +142,13 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dev-choudhary-2006june">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://instagram.com/devgadwal2006">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram">
 </a>
 
 </p>
