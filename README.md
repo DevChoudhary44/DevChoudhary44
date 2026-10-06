@@ -37,7 +37,7 @@
 ## ⛓️ Blockchain Network
 
 <p align="center">
-  <img src="./blockchain-animation.svg" alt="Animated Blockchain Network" width="900">
+  <img src="blockchain-animation.svg" alt="Animated Blockchain Network" width="900">
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🛡️ Cybersecurity Scanner
 
 <p align="center">
-  <img src="./cybersecurity-scanner.svg" alt="Animated Cybersecurity Scanner" width="900">
+  <img src="cybersecurity-scanner.svg" alt="Animated Cybersecurity Scanner" width="900">
 </p>
 
 ---
